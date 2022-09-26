@@ -1,0 +1,14 @@
+#include<stdio.h>
+#include<conio.h>
+void main()
+{
+int a=1,m;
+clrscr();
+	scanf("%d",&m);
+	while(m>=a)
+	{
+	printf("%d\n",m);
+	m--;
+	}
+       getch();
+       }
